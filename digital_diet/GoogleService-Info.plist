@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19392697885-prd5ks0ksf644703tpflb3b2ka3qdhte.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19392697885-prd5ks0ksf644703tpflb3b2ka3qdhte</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5404mxCjy1XyftnO8Ct5EfItouHyb4vU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19392697885</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.screennutrition.digitaldiet</string>
+	<key>PROJECT_ID</key>
+	<string>digital-diet-c99d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digital-diet-c99d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19392697885:ios:58aeb4c9eac7f6be2598f4</string>
+</dict>
+</plist>
